@@ -1,7 +1,7 @@
 # PRODIGY_DS_01
 Create a bar chart or histogram to visualize the distribution of categorical or continuous, such the distributiion of ages and genders of population 
 
-# Data:
+#Data:
 Include the dataset used for analysis, if permissible.
 Provide details about the dataset, such as its format and any preprocessing steps applied.
 
